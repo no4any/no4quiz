@@ -1,0 +1,11 @@
+{
+  "name": "@no4quiz/common",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "author": "No4Any",
+  "license": "AGPL-3.0-only",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
